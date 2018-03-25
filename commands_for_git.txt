@@ -1,0 +1,2 @@
+cd /c/Users/Manjit/desktop/Random/Star_trek/Development/my_python/django
+
