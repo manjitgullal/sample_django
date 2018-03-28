@@ -19,6 +19,10 @@ python manage.py makemigrations
 python manage.py sqlmigrate boards 0001
 python manage.py migrate
 Board.objects.all() 
+python manage.py shell
+python manage.py test
+python manage.py test --verbosity=2
+
 
 Git commands
 ------------
@@ -37,3 +41,5 @@ https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-gui
 Errors received
 ----------------
 https://stackoverflow.com/questions/44026548/getting-typeerror-init-missing-1-required-positional-argument-on-delete
+https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add
+https://stackoverflow.com/questions/43139081/importerror-no-module-named-django-core-urlresolvers
