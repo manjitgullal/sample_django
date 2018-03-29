@@ -22,7 +22,11 @@ Board.objects.all()
 python manage.py shell
 python manage.py test
 python manage.py test --verbosity=2
-
+python manage.py createsuperuser
+user:manjit
+email:manjit862@gmail.com
+pass:1facebook
+http://127.0.0.1:8000/admin/
 
 Git commands
 ------------
@@ -37,6 +41,7 @@ External Sources for Info
 https://docs.djangoproject.com/en/2.0/ref/django-admin/
 https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html
 https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html
+https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html
 
 Errors received
 ----------------
