@@ -25,7 +25,7 @@ python manage.py test --verbosity=2
 python manage.py createsuperuser
 user:manjit
 email:manjit862@gmail.com
-pass:1facebook
+pass:*********
 http://127.0.0.1:8000/admin/
 
 Git commands
@@ -48,3 +48,10 @@ Errors received
 https://stackoverflow.com/questions/44026548/getting-typeerror-init-missing-1-required-positional-argument-on-delete
 https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add
 https://stackoverflow.com/questions/43139081/importerror-no-module-named-django-core-urlresolvers
+https://www.regextester.com/20
+
+Questions?
+----------
+how does the virtual env work?
+try with docker as well?
+put your work in python anywhere?
