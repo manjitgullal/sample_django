@@ -27,6 +27,7 @@ user:manjit
 email:manjit862@gmail.com
 pass:*********
 http://127.0.0.1:8000/admin/
+http://127.0.0.1:8000/boards/1/ 
 
 Git commands
 ------------
@@ -55,3 +56,9 @@ Questions?
 how does the virtual env work?
 try with docker as well?
 put your work in python anywhere?
+
+Read the related articles
+--------------------------
+https://www.infoworld.com/article/3069558/application-development/7-deadly-career-mistakes-developers-make.html?page=2
+https://codeburst.io/how-to-find-your-first-developer-job-f1f33455cf8e
+https://www.techinasia.com/talk/5-month-guide-learn-code-get-hired
