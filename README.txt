@@ -62,3 +62,4 @@ Read the related articles
 https://www.infoworld.com/article/3069558/application-development/7-deadly-career-mistakes-developers-make.html?page=2
 https://codeburst.io/how-to-find-your-first-developer-job-f1f33455cf8e
 https://www.techinasia.com/talk/5-month-guide-learn-code-get-hired
+
