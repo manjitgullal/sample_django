@@ -26,9 +26,11 @@ python manage.py createsuperuser
 user:manjit
 email:manjit862@gmail.com
 pass:*********
+django-admin startapp accounts
 http://127.0.0.1:8000/admin/
 http://127.0.0.1:8000/boards/1/ 
 http://127.0.0.1:8000/boards/1/new/
+http://127.0.0.1:8000/signup/ 
 
 Git commands
 ------------
