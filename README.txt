@@ -67,3 +67,7 @@ https://www.infoworld.com/article/3069558/application-development/7-deadly-caree
 https://codeburst.io/how-to-find-your-first-developer-job-f1f33455cf8e
 https://www.techinasia.com/talk/5-month-guide-learn-code-get-hired
 
+
+Avoid
+------
+Keep the format of form file as it is, for some reason if you change it it does not work
