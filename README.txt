@@ -7,7 +7,7 @@ This is chat forum, where users can create a topic and discuss about it
 
 Basic commands for the project
 ------------------------------
-C:\Users\Manjit\Desktop\Random\Star_Trek\Development\my_python\django\new_project
+cd C:\Users\Manjit\Desktop\Random\Star_Trek\Development\my_python\django\new_project
 virtualenv venv
 venv\Scripts\activate
 venv\Scripts\deactivate.bat
